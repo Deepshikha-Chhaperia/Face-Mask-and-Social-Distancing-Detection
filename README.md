@@ -22,6 +22,7 @@ You can install these libraries using:
 ```bash
 pip install numpy pandas opencv-python-headless scipy keras matplotlib
 
+
 ## Setup / Installation
 
 ### Clone the Repository
