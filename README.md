@@ -50,15 +50,15 @@ kaggle datasets download -d andrewmvd/face-mask-detection
 unzip face-mask-detection.zip
 ```
 
-##Usage
+## Usage
 
-###Prepare Your Environment
-Ensure all necessary files are in place and paths are correctly set in the script.
+### Prepare Your Environment
+- Ensure all necessary files are in place and paths are correctly set in the script.
 
-## Run the Detection Script
-Execute the script to perform face detection, mask detection, and social distancing checks:
+### Run the Detection Script
+- Execute the script to perform face detection, mask detection, and social distancing checks:
 
-``` bash
+```bash
 python detect.py
 ```
 
