@@ -28,7 +28,7 @@ pip install numpy pandas opencv-python-headless scipy keras matplotlib
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/face-mask-social-distancing-detection.git
+git clone https://github.com/Deepshikha-Chhaperia/Face-Mask-and-Social-Distancing-Detection.git
 cd face-mask-social-distancing-detection
 ```
 
