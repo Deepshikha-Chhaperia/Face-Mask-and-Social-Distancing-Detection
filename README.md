@@ -51,6 +51,7 @@ unzip face-mask-detection.zip
 ```
 
 ##Usage
+
 ###Prepare Your Environment
 Ensure all necessary files are in place and paths are correctly set in the script.
 
