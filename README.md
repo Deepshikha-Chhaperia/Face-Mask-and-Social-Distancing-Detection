@@ -65,6 +65,12 @@ python detect.py
 ## View Results
 The script will output images with annotations showing detected faces, mask status, and social distancing violations.
 
+
+![1745911486482](https://github.com/user-attachments/assets/3bb5eb4d-4e79-49de-95c4-114e7672f923)
+
+
+![1745911557717](https://github.com/user-attachments/assets/d650562a-dfb6-4dd1-8ded-61132183cb1d)
+
 ## Code Explanation
 
 - **Face Detection**: Uses OpenCV's Haar Cascade to locate faces in images.
